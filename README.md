@@ -6,6 +6,6 @@ align="center"
 -->
 
 <p>
-  <img src="https://www.github-readme-stats-gcorebyte.vercel.app/api?username=gCoreByte&show_icons=true&include_all_commits=true">
-  <img src="https://www.github-readme-stats-gcorebyte.vercel.app/api/top-langs/?username=gCoreByte&layout=compact">
+  <img src="https://github-readme-stats-red-pi.vercel.app/api?username=gCoreByte&show_icons=true&include_all_commits=true">
+  <img src="https://github-readme-stats-red-pi.vercel.app/api/top-langs/?username=gCoreByte&layout=compact">
 </p>
